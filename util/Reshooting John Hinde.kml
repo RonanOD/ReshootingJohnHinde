@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Reshooting John Hinde</name>
+    <description/>
+    <Style id="icon-1502-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-C2185B-nodesc-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1502-C2185B-nodesc-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1502-C2185B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-C2185B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-C2185B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Dublin Airport</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/5qj2__vrVnM_79jNa_5Q_CdOst9gGhcdjp7pATkERtSOUrYwdcg5gaz9op2ApnnbQxUZEu377wMau6Cs-a8pZGcIAPXUbDH5NiNhB_b20biElJ6f6xxoeo5bosKwuR2yU6JDqA" height="200" width="auto" /><br><br>John Hinde/Anna Walsh]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/5qj2__vrVnM_79jNa_5Q_CdOst9gGhcdjp7pATkERtSOUrYwdcg5gaz9op2ApnnbQxUZEu377wMau6Cs-a8pZGcIAPXUbDH5NiNhB_b20biElJ6f6xxoeo5bosKwuR2yU6JDqA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.24990980000007,53.4264481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View of The Head, Skerries</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/JBrg2c4cljt6LhBMru9OQIeNXZFY13N39HoSDTMtPoG_Ke6aVJa4e4qaJn3YzUH73S5X59IZ0qyxIl_ZDru0cSyXr8KYVUbbxywJtjO_f4qwRDgh6gM27KfgNPcJs4unQLfO8Q" height="200" width="auto" /><br><br>Skerries Beach and view of The Head, Gillian O'Brien/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/JBrg2c4cljt6LhBMru9OQIeNXZFY13N39HoSDTMtPoG_Ke6aVJa4e4qaJn3YzUH73S5X59IZ0qyxIl_ZDru0cSyXr8KYVUbbxywJtjO_f4qwRDgh6gM27KfgNPcJs4unQLfO8Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.1047345,53.5788882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garden of Remembrance</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/ArqBhIEyCVuyVkG85AJW_6GwumP3m4Pw--IgQqpudKZTYmnSzxDd459BaIAcQAddgLckwMf6S3ViiCVa2LXJh7StvBevD9z0y9gX8kf8Zd3mq7Xv-4x7sk73VxiOcdC7Lifh" height="200" width="auto" /><br><br>John Hinde/Anna Walsh  Pic 2: John Hinde/Fiacre O'Toole<br><br><img src="https://lh5.googleusercontent.com/TQkRqJZJsIp4IYe6raZAQjTL7d-gC9c4E4f0HEk8_aodEiqthObFPGgVLooiQB7RwAGLAss4VkURF_rxJOr5YghU9cityORTbK4oDF86G3xfnc7GAwFz4TtW9XgGEeqK11lvsg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/ArqBhIEyCVuyVkG85AJW_6GwumP3m4Pw--IgQqpudKZTYmnSzxDd459BaIAcQAddgLckwMf6S3ViiCVa2LXJh7StvBevD9z0y9gX8kf8Zd3mq7Xv-4x7sk73VxiOcdC7Lifh https://lh5.googleusercontent.com/TQkRqJZJsIp4IYe6raZAQjTL7d-gC9c4E4f0HEk8_aodEiqthObFPGgVLooiQB7RwAGLAss4VkURF_rxJOr5YghU9cityORTbK4oDF86G3xfnc7GAwFz4TtW9XgGEeqK11lvsg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.26414290000002,53.3538817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Custom House & Liberty Hall, Dublin ]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/fDALycPgt09Qbu80TCEy92K6zjtggaVpQIDbjjn6IhR03FcpGTaJdQqjY7oam7qSlEECE4fnrxfNl8uU2Dtr0oSmgxXYXCaK4xzyh6yiiia52aYHTke4IYLYSDHORdETeRxRgw" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/fDALycPgt09Qbu80TCEy92K6zjtggaVpQIDbjjn6IhR03FcpGTaJdQqjY7oam7qSlEECE4fnrxfNl8uU2Dtr0oSmgxXYXCaK4xzyh6yiiia52aYHTke4IYLYSDHORdETeRxRgw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.25313849999998,53.348704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[O'Connell Street, Dublin ]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/OYsPvMAZwzlIa2Hz2K_sMXgoUjineoRw5EtCv8j12651gl8C6jSPUwo5cnc3tfb1kHgsz3YrpitCGoF8SNz1MtTZqreiusZU3zh6Zn3HIBlkGBFDcEnj04R0kTy2tP3F1RXlKcM" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/OYsPvMAZwzlIa2Hz2K_sMXgoUjineoRw5EtCv8j12651gl8C6jSPUwo5cnc3tfb1kHgsz3YrpitCGoF8SNz1MtTZqreiusZU3zh6Zn3HIBlkGBFDcEnj04R0kTy2tP3F1RXlKcM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2594926,53.3475861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>General Post Office, Dublin</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/_4R4bo1iAF3jOe_CHqEzX_BlukQLlf50xQKZznthZz7B1kY8Fl_BnKeEvIWrd-eGWTMnlKI6Z49EeZrEg-L4cthN75c42jxBGzpoKZWbh9EUqM4GFQDrpmYdK5iNknxQ5hcIRg" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/_4R4bo1iAF3jOe_CHqEzX_BlukQLlf50xQKZznthZz7B1kY8Fl_BnKeEvIWrd-eGWTMnlKI6Z49EeZrEg-L4cthN75c42jxBGzpoKZWbh9EUqM4GFQDrpmYdK5iNknxQ5hcIRg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2611482,53.3492732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinity College, Dublin</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/S4Qb5u7D5wgIAhPFqQB6whS6_sQuvDj2cn9MEv-Ahv5o02j_SW3rd_NyiU3gz-va3J-KNrTmfXbuSj2N3QGYpPVj0BIhyew4TgddELoMmQZmUSTbRR4ZkR4c5V8RUASQWPar-g" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/S4Qb5u7D5wgIAhPFqQB6whS6_sQuvDj2cn9MEv-Ahv5o02j_SW3rd_NyiU3gz-va3J-KNrTmfXbuSj2N3QGYpPVj0BIhyew4TgddELoMmQZmUSTbRR4ZkR4c5V8RUASQWPar-g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2587416,53.3442619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grafton Street, Dublin</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/aM1iyI4QCxoneOQk4DcHNmekliYKyZx2gI1Xmho4D90EReoLgKDeXlagDe5J8OiNsY3gHcDTeO3bufyVO1lP6QrGSz_s45ge0KSD4VrAASdL9ljX823bOKK987EFtG8X_78L" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien<br><br><img src="https://lh3.googleusercontent.com/DdkLzJcvEU7arLBJzu9ACRkYV30mgL9cVTcgAE-vketGk4A4Bwu8ZAHqXarpCgWe6KNMqtGZiDhtzdEKa2RM7DgksYp-3Sv3pksfm-GqV42Yt1bPfp5utEhNSAVrVlEvVbyw7Q" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/aM1iyI4QCxoneOQk4DcHNmekliYKyZx2gI1Xmho4D90EReoLgKDeXlagDe5J8OiNsY3gHcDTeO3bufyVO1lP6QrGSz_s45ge0KSD4VrAASdL9ljX823bOKK987EFtG8X_78L https://lh3.googleusercontent.com/DdkLzJcvEU7arLBJzu9ACRkYV30mgL9cVTcgAE-vketGk4A4Bwu8ZAHqXarpCgWe6KNMqtGZiDhtzdEKa2RM7DgksYp-3Sv3pksfm-GqV42Yt1bPfp5utEhNSAVrVlEvVbyw7Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2593746,53.3431025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Patrick's Cathedral, Dublin]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/oa4_cnGPPviROArFgDpF0Cwc38uwzCc8SqzbU2Anv2XDwh1jt6XmNbkoOwCKnO1BuZnGZ9pHs1Rj2-ktFhGSoFKoP-0PAT8v9K6vHNqPd2-RxqAChOTvPDEZoOj6R6ldBUWs" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/oa4_cnGPPviROArFgDpF0Cwc38uwzCc8SqzbU2Anv2XDwh1jt6XmNbkoOwCKnO1BuZnGZ9pHs1Rj2-ktFhGSoFKoP-0PAT8v9K6vHNqPd2-RxqAChOTvPDEZoOj6R6ldBUWs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2700176,53.3405019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Stephen's Green , Dublin ]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/jRCAAKFOfv42WOvul7Y4Qg-TSEYnkZxiEYC5UTrOK27Vvmvxz99t-B-PSaesLV57l4pzzL_ej2mrgplUtEllEEs_m_kMwnXvZpXy_BsXG2gb8RQsUrDlO0t2fj60fPYaVRP7pxg" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/jRCAAKFOfv42WOvul7Y4Qg-TSEYnkZxiEYC5UTrOK27Vvmvxz99t-B-PSaesLV57l4pzzL_ej2mrgplUtEllEEs_m_kMwnXvZpXy_BsXG2gb8RQsUrDlO0t2fj60fPYaVRP7pxg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2571323,53.3385481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Stephen's Green, Dublin]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/Br3uP9EYGKTL7GOCTxC8wyz6kca7ph2TK_WU_5cjwic6nEmb6bmmZflxZQhHtjixjGmtUgxgpCQDHORqOrsZH2iMOQlEV4UGBeiA8HJTMmA80Xd8zc_53AhjpkQke4xTyFN1" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien<br><br><img src="https://lh3.googleusercontent.com/xBXZq8vRtPoJ2SYfNsM1o53aZNGV8D1sj52Up7XYyoERJ8TXhZHpPjIb3Iwy0cxNPGJU0P4Fonas78jnGijeZa4iiC-qgWxqSmVVlk2qpZbzg3U_8RUOlmrV5YIjHvb4Dz8kXZM" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/Br3uP9EYGKTL7GOCTxC8wyz6kca7ph2TK_WU_5cjwic6nEmb6bmmZflxZQhHtjixjGmtUgxgpCQDHORqOrsZH2iMOQlEV4UGBeiA8HJTMmA80Xd8zc_53AhjpkQke4xTyFN1 https://lh3.googleusercontent.com/xBXZq8vRtPoJ2SYfNsM1o53aZNGV8D1sj52Up7XYyoERJ8TXhZHpPjIb3Iwy0cxNPGJU0P4Fonas78jnGijeZa4iiC-qgWxqSmVVlk2qpZbzg3U_8RUOlmrV5YIjHvb4Dz8kXZM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.259557,53.3381253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dún Laoghaire East Pier</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/2-cDbpRJnnerVafnUSQAY_5LMw0FFc-C3iGvCVUgLDowhBkDy0_MNR_Tra0M0clcGLcV42C9F00JVZ9hMOWzSSJ1_EG2zG3xL65jxcbLbbmNkTzV_JtnttfBAtwhwusezJQvHg" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/2-cDbpRJnnerVafnUSQAY_5LMw0FFc-C3iGvCVUgLDowhBkDy0_MNR_Tra0M0clcGLcV42C9F00JVZ9hMOWzSSJ1_EG2zG3xL65jxcbLbbmNkTzV_JtnttfBAtwhwusezJQvHg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.12383969999996,53.3002968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dun Laoghaire Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/illBKgVhIkl4K3c2uRTVljIYOKNtSxGheakcpsUYh3ClFSd4ZvLe_5U6qUjSwo2fLHLqOSKqGb-HOuZIr23-tYmUyAmF15_mu4wrKPuOrBYIPiQmXwWWKDVEQij_Is0I8lwctFM" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/illBKgVhIkl4K3c2uRTVljIYOKNtSxGheakcpsUYh3ClFSd4ZvLe_5U6qUjSwo2fLHLqOSKqGb-HOuZIr23-tYmUyAmF15_mu4wrKPuOrBYIPiQmXwWWKDVEQij_Is0I8lwctFM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.128,53.2915532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pyramid of Dublin</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/zD8tGy9mrKdd0hQIl_fFjquCSILkzEAvEwglgVXsvMBFObfwLJ6L6cOGSxONOaUiJjRlCVWnY-YFGghQ9lnvC_E5RJJ1_nht1t6kTvPKiadlxfk107CXiz1J147sOEcVQEFDRy0" height="200" width="auto" /><br><br>Pyramid of Dublin, John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/zD8tGy9mrKdd0hQIl_fFjquCSILkzEAvEwglgVXsvMBFObfwLJ6L6cOGSxONOaUiJjRlCVWnY-YFGghQ9lnvC_E5RJJ1_nht1t6kTvPKiadlxfk107CXiz1J147sOEcVQEFDRy0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.1110089,53.2656598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Killiney Bay View</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/ZLn5EIUnpr3HNHo-jTbmr5fK-I3sYKSzNc83i1l6gJc5mDJgPxYCBHvUwit2niv5g2bxrIK4Mzn8RldNMzPX748OfhZmS6IedQ1H5IczlqVNANuQhWDd56StNCvnFiIXISEgCw" height="200" width="auto" /><br><br>John Hinde/Caroline McGee Pic 2: John Hinde/Fiacre O'Toole<br><br><img src="https://lh5.googleusercontent.com/1NoU3qZ4cW_xlSSE-rXS2LyBD9JEReJIuv9xHtMjZXess-CSLBwMJ0FizdSQM9sR-Jiyr0rChKsRUGkkUg3Gx2tZFxn3PmZjW9eXYPlxLDJkl7DWT1wOOrnJE3fPTWwe7Jkmkg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/ZLn5EIUnpr3HNHo-jTbmr5fK-I3sYKSzNc83i1l6gJc5mDJgPxYCBHvUwit2niv5g2bxrIK4Mzn8RldNMzPX748OfhZmS6IedQ1H5IczlqVNANuQhWDd56StNCvnFiIXISEgCw https://lh5.googleusercontent.com/1NoU3qZ4cW_xlSSE-rXS2LyBD9JEReJIuv9xHtMjZXess-CSLBwMJ0FizdSQM9sR-Jiyr0rChKsRUGkkUg3Gx2tZFxn3PmZjW9eXYPlxLDJkl7DWT1wOOrnJE3fPTWwe7Jkmkg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.1117029,53.2584103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset looking north from Sandycove Beach</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/uq83AkaY-TPv3RrpZBNWzY0_ZsrDKp1cYIk9US1aYKSLb10CeVlF7fGbl2vvC8oiyAm8nLOAy229fw5i7el4E4Otri5HW2aK17uP8SandSqr2UrV_1nNC1tOMCH0NvhXRmwM_g" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/uq83AkaY-TPv3RrpZBNWzY0_ZsrDKp1cYIk9US1aYKSLb10CeVlF7fGbl2vvC8oiyAm8nLOAy229fw5i7el4E4Otri5HW2aK17uP8SandSqr2UrV_1nNC1tOMCH0NvhXRmwM_g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.11449809999999,53.2886562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bullock Harbour</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/yq7OTfpoklKSv0Tp6zBlmm3vVbjdlrrVlcovrjKzpfw37lSoUdt_EFVPSGTan8UzHxQt7qDMuIdnSeltrGjPUEuFkyrd8NvGGLgjT_lrAVUNepoIc5fOugSlf_yfm2TzN9l-" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/yq7OTfpoklKSv0Tp6zBlmm3vVbjdlrrVlcovrjKzpfw37lSoUdt_EFVPSGTan8UzHxQt7qDMuIdnSeltrGjPUEuFkyrd8NvGGLgjT_lrAVUNepoIc5fOugSlf_yfm2TzN9l-</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.1070895,53.2849921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coliemore Harbour</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/jTUiDMKwyBV2yvMmd0MYlCX7qWTAvWKAOcSFvi40m81KUdS8R_5ODhUt-XBbSOpx8vR4tajnLT29NEPsVHER5hurpAtfg_NkExXF0CM2j9Rp2Q92m-CwjIHLDLdgkRioA4LrKw" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/jTUiDMKwyBV2yvMmd0MYlCX7qWTAvWKAOcSFvi40m81KUdS8R_5ODhUt-XBbSOpx8vR4tajnLT29NEPsVHER5hurpAtfg_NkExXF0CM2j9Rp2Q92m-CwjIHLDLdgkRioA4LrKw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.0938072,53.274985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bray</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/O-mz49JSiladp35YvvoXyQ6Z8pOMDVyWAvQX1PTl8mpOUpQigaUSVxsfTZHNwXxmvKsZgBbkLuM5rmUtQi1kACi04KT7tEmmEDe2rUqHlZOFPtbllruw7pOLOKU-qqbB0dyH" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/O-mz49JSiladp35YvvoXyQ6Z8pOMDVyWAvQX1PTl8mpOUpQigaUSVxsfTZHNwXxmvKsZgBbkLuM5rmUtQi1kACi04KT7tEmmEDe2rUqHlZOFPtbllruw7pOLOKU-qqbB0dyH</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.0961783,53.2002938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Powerscourt Waterfall, Enniscorthy</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/aNSioCFAu_lcgBVNl3f1LiXsEzLfikmmGtmKrqr1mFRqtx4hxI7_hDYVQqOMAWshGFP_tDSLy2-4iEmyH8bHqTVKSQxpWzJeQE0F7EojotvuqIPxt3osLST9-3dZDxe9l5AY" height="200" width="auto" /><br><br>John Hinde/Fiacre O'Toole]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/aNSioCFAu_lcgBVNl3f1LiXsEzLfikmmGtmKrqr1mFRqtx4hxI7_hDYVQqOMAWshGFP_tDSLy2-4iEmyH8bHqTVKSQxpWzJeQE0F7EojotvuqIPxt3osLST9-3dZDxe9l5AY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.21047239999996,53.1466022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View of the Castle, Enniscorthy</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/lzLLkEvXqWse9vlqvwcLUWqUkqTkpzmkPVxF9m0HZSVMBipnc5AUIo7XUNjmJxLVaToIQlG0NFFz-zVt5uWgVJhA8hB27kzBCWSpj7Zdh30ZVFDLXtyv8Q3HrFy6NCKnRUmk" height="200" width="auto" /><br><br>Enniscorthy - John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/lzLLkEvXqWse9vlqvwcLUWqUkqTkpzmkPVxF9m0HZSVMBipnc5AUIo7XUNjmJxLVaToIQlG0NFFz-zVt5uWgVJhA8hB27kzBCWSpj7Zdh30ZVFDLXtyv8Q3HrFy6NCKnRUmk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.5639341,52.500663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Reginald's Tower, Waterford]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/XWh0ZcamTVHlt_eUwEHmIyAOGVk3UpuT6VS0idDimwIS-FmbsCnjjkjiPGbCDYaN1nLS4eNXBfOLYI7M9FMd5z4Azw7XrbTvg6JAE9uxi_bpVJen88v7jIFblZotuD8nu0Ramw" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/XWh0ZcamTVHlt_eUwEHmIyAOGVk3UpuT6VS0idDimwIS-FmbsCnjjkjiPGbCDYaN1nLS4eNXBfOLYI7M9FMd5z4Azw7XrbTvg6JAE9uxi_bpVJen88v7jIFblZotuD8nu0Ramw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.10542050000004,52.2604982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clock Tower, Waterford</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/V_XiGmgaaSjNFayh1YM5dVONHSZ0DyAhd-Esh9qO3_EA-6pyUkMl_tLZduhfUh6p3G_OIkyIduXKxFLkq2_4SDv8QeleS5VuuHvTu8pQX_E1uA-TBz-ViiPWOgqDc5SlSlkB" height="200" width="auto" /><br><br>Clock Tower - John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/V_XiGmgaaSjNFayh1YM5dVONHSZ0DyAhd-Esh9qO3_EA-6pyUkMl_tLZduhfUh6p3G_OIkyIduXKxFLkq2_4SDv8QeleS5VuuHvTu8pQX_E1uA-TBz-ViiPWOgqDc5SlSlkB</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.11147759999994,52.2622265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clock Tower, Waterford - 2</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/5r302hN-ztuxAJexMvesVswW8gyll63xUJdsSXLufTvt-L2Bd7-X5IQ4hMb9HC_qQlL8VcZH1-OWWU1wgJK3dtkknAk1e8Pg-bDbv1MhUKlRdgOZ4j5gIzF_Mw_VU4eO8JquxQ" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/5r302hN-ztuxAJexMvesVswW8gyll63xUJdsSXLufTvt-L2Bd7-X5IQ4hMb9HC_qQlL8VcZH1-OWWU1wgJK3dtkknAk1e8Pg-bDbv1MhUKlRdgOZ4j5gIzF_Mw_VU4eO8JquxQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.1109331,52.2619852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ardmore Round Tower</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/i7ngtPsFeicRVgmsKiTRuaA05z81uTiZh2H-jBfFqHrWgO2oKM2o1kDQ5UuMGN_oBBoa2V9EiTSb7pvPAgLAzzIHLEyYaEUWAWJgVS8CmgJ5eM24vF5Xir4BiQbPW5oJThcbJw" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/i7ngtPsFeicRVgmsKiTRuaA05z81uTiZh2H-jBfFqHrWgO2oKM2o1kDQ5UuMGN_oBBoa2V9EiTSb7pvPAgLAzzIHLEyYaEUWAWJgVS8CmgJ5eM24vF5Xir4BiQbPW5oJThcbJw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.72607249999999,51.9486784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rock of Cashel</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/sv8tTEv0QWPyrIORtn5O1YZOJnhaYb5tN9SOjyJHanqtxhZYHnEvHV5aNEMfd4JdN9q1G3A4AexZeFMYAVZXqVzDbgKcOEC6q5MbhEeMNbI2RVsFpe_rMYntrKZAUiC1Jpu0GD8" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien<br><br><img src="https://lh6.googleusercontent.com/nTXK65EbH9fZC0W4WtSlcydUR8N66pEIapXI4WxwZTN36lyRKLYZb1TKykT6TDL72LBQHStbsg5CpjcrYKVIrVLOgu7YFLcImnBocvklsw4HrRgx08PN5usoOA4KbV76u6nq" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/sv8tTEv0QWPyrIORtn5O1YZOJnhaYb5tN9SOjyJHanqtxhZYHnEvHV5aNEMfd4JdN9q1G3A4AexZeFMYAVZXqVzDbgKcOEC6q5MbhEeMNbI2RVsFpe_rMYntrKZAUiC1Jpu0GD8 https://lh6.googleusercontent.com/nTXK65EbH9fZC0W4WtSlcydUR8N66pEIapXI4WxwZTN36lyRKLYZb1TKykT6TDL72LBQHStbsg5CpjcrYKVIrVLOgu7YFLcImnBocvklsw4HrRgx08PN5usoOA4KbV76u6nq</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.89045220000003,52.5200763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Parade, Cork</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/cOHlkolnugsSLKWT6ffXFUvGAOmPHzhocZgv77fbKDBIevlIm0TBBtxgkSvg7IslQWdojBY0Nv99lyY-zs78hQhAZ7Z5b3KGOJWdLgNi5GlXh41MBgKoTEoLdCIekgoa5wfkvg" height="200" width="auto" /><br><br>John Hinde/Anna Walsh]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/cOHlkolnugsSLKWT6ffXFUvGAOmPHzhocZgv77fbKDBIevlIm0TBBtxgkSvg7IslQWdojBY0Nv99lyY-zs78hQhAZ7Z5b3KGOJWdLgNi5GlXh41MBgKoTEoLdCIekgoa5wfkvg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.4745038,51.8956918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UCC</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/vE65rcZsYb3L8R-rSDwDBoIcnfqp50wbMV-AOo3YOGCDMa4QD6pdRNblSjcl825ROIk90X0vt3iP4M061eAj5HuoIG7I1lv9vn0oRkWDJvw0-fTJm02nRloBLadqSj-ZyGvS" height="200" width="auto" /><br><br>John Hinde/John Bosonnet<br><br><img src="https://lh5.googleusercontent.com/jUsC9Oxo1RCpdXOhTDZ3LvKR99Lv-v5obRcKXMvZLNjmuaPeUSBeEvywnkgQ2WRbSaZjYPyxHi_EQZzQCMtRqR4CBFqYx9IBIihXncSdmN7ZwTrqf46svrdtRhUQZUxI-SjTzA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/vE65rcZsYb3L8R-rSDwDBoIcnfqp50wbMV-AOo3YOGCDMa4QD6pdRNblSjcl825ROIk90X0vt3iP4M061eAj5HuoIG7I1lv9vn0oRkWDJvw0-fTJm02nRloBLadqSj-ZyGvS https://lh5.googleusercontent.com/jUsC9Oxo1RCpdXOhTDZ3LvKR99Lv-v5obRcKXMvZLNjmuaPeUSBeEvywnkgQ2WRbSaZjYPyxHi_EQZzQCMtRqR4CBFqYx9IBIihXncSdmN7ZwTrqf46svrdtRhUQZUxI-SjTzA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.491627,51.8934374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blackrock Castle</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/FnZNEh_yWDnUdP_C2k7VRkhPK9VysVALZvyB5gQS2a4CPVPQbdyCXzCeU1vlGcxSpk7CM_XHYhAzs7R0eTN6cAa_Hs7693l3KJMU9v2L5bfIAbTHOvJOoTa59HmOJLC7qDWHzQ" height="200" width="auto" /><br><br>John Hinde/David Bosonnet Pic 2: John Hinde/Fiacre O'Toole<br><br><img src="https://lh6.googleusercontent.com/IQ6_9_tYYwcvS1h-AwAy4dwN_zReiBJkETGRancLY37xVC6EefVT4kk-mQ-zGkaeO7br70OrJUtNBv3rnWhiMqOKhtcHv0islOl6wiT5obSiKimgB3Yp5az8QrXNO-mVMEDBEg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/FnZNEh_yWDnUdP_C2k7VRkhPK9VysVALZvyB5gQS2a4CPVPQbdyCXzCeU1vlGcxSpk7CM_XHYhAzs7R0eTN6cAa_Hs7693l3KJMU9v2L5bfIAbTHOvJOoTa59HmOJLC7qDWHzQ https://lh6.googleusercontent.com/IQ6_9_tYYwcvS1h-AwAy4dwN_zReiBJkETGRancLY37xVC6EefVT4kk-mQ-zGkaeO7br70OrJUtNBv3rnWhiMqOKhtcHv0islOl6wiT5obSiKimgB3Yp5az8QrXNO-mVMEDBEg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.40251349999994,51.9002345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Parade</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/9x_165nAy5bEK56wnMvAX3TdsL-t_qYEafhdCg-9a39kSMWhW58DoStHpckxUt7dIsuNPT8puOvR3R5IRJ4U_MSGpqdPejspH4_20wol4SSpGf4ucIWd3iCb4m10BJHgHzeVXPY" height="200" width="auto" /><br><br>John Hinde/Louise Foote]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/9x_165nAy5bEK56wnMvAX3TdsL-t_qYEafhdCg-9a39kSMWhW58DoStHpckxUt7dIsuNPT8puOvR3R5IRJ4U_MSGpqdPejspH4_20wol4SSpGf4ucIWd3iCb4m10BJHgHzeVXPY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.4747666,51.8961288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lough Hyne</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/wrN_HF5wx8Mq7laSeIZTGoO3Vb5ye5_Jqhy1o_2FBAZ_QpPweYwWy_Gm2lEyFwoQo9cuMFt7IBIlHppFzc0qYeoOW62TNsQHMbbE6qq5wv-KAG12JbULeIHSydGrB1egQAtb5Q" height="200" width="auto" /><br><br>John Hinde/Fiacre O'Toole]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/wrN_HF5wx8Mq7laSeIZTGoO3Vb5ye5_Jqhy1o_2FBAZ_QpPweYwWy_Gm2lEyFwoQo9cuMFt7IBIlHppFzc0qYeoOW62TNsQHMbbE6qq5wv-KAG12JbULeIHSydGrB1egQAtb5Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -9.3040466,51.5066056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Derrynane Harbour and Scariff Island, "Ring of Kerry"]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/zfQ5eSVqvJDV8S3tJiujG1nDMd87x_-Kt_mHk_awh4D1nd1FHtxsT006r8Fmm9kZ4GAE0KhvNSzQH14Y3Sw0nZ-lMYR9q2AHYAI_PRvOEo1LY0gotRwS9Ga8LlYpe6EV6_kUSQ" height="200" width="auto" /><br><br>John Hinde/David Bosonnet]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/zfQ5eSVqvJDV8S3tJiujG1nDMd87x_-Kt_mHk_awh4D1nd1FHtxsT006r8Fmm9kZ4GAE0KhvNSzQH14Y3Sw0nZ-lMYR9q2AHYAI_PRvOEo1LY0gotRwS9Ga8LlYpe6EV6_kUSQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.1433635,51.7604993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View of Derrynane Harbour from Coomikista Pass</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/QKsRAJwha9JzATKboppMvvgeW8pvWXPgDaT2GX6W_9YJW2NFamXrjQkSRHpRbupV5ppnqqsCasz0xEYaJs0DkMxFgQWmAQ6wLmFjiHTZFwUMM0JewVKQ18YzJOfMKF8-Nrv96Q" height="200" width="auto" /><br><br>John Hinde/David Bosonnet]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/QKsRAJwha9JzATKboppMvvgeW8pvWXPgDaT2GX6W_9YJW2NFamXrjQkSRHpRbupV5ppnqqsCasz0xEYaJs0DkMxFgQWmAQ6wLmFjiHTZFwUMM0JewVKQ18YzJOfMKF8-Nrv96Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.1630402,51.7751693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coomakista Pass</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/hfSC41hqSv1qPkRGj2EGi-RqCsS4PuFpJdm0CKnuhitMeMnTFom8J5HYeF1PMaPmcEqjksKRZxTAV6lnFt6pm2pBddRfw8QS9PhlFHVA9lCKck-Yk0MrvsV09xc5h_c_4b1aJw" height="200" width="auto" /><br><br>John Hinde/David Bosonnet]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/hfSC41hqSv1qPkRGj2EGi-RqCsS4PuFpJdm0CKnuhitMeMnTFom8J5HYeF1PMaPmcEqjksKRZxTAV6lnFt6pm2pBddRfw8QS9PhlFHVA9lCKck-Yk0MrvsV09xc5h_c_4b1aJw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.1665592,51.7763908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Waterville, "Ring of Kerry"]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/tftgHnK4dmPA3RVg1IKSlVtuJIhLroAgMHHKcJri9dCC-g-PEFOcGQrCTnt3LNRjDp64qYe9_wGL4B2ZjbNhdSjMTeBiCNtdTSM92jGDUlHYLvob3Mtp1s4rK3wfhMiwa8U_pg" height="200" width="auto" /><br><br>John Hinde/David Bosonnet]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/tftgHnK4dmPA3RVg1IKSlVtuJIhLroAgMHHKcJri9dCC-g-PEFOcGQrCTnt3LNRjDp64qYe9_wGL4B2ZjbNhdSjMTeBiCNtdTSM92jGDUlHYLvob3Mtp1s4rK3wfhMiwa8U_pg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.1724815,51.8269726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gallarus Oratory</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/f6j6YzzUxPWFcFeWMKQRN_qeyjFW-qixw9z1WgicIfENp5mFR2iWHBcsD3O7FCz9WzULKfan6_Lbavn_FDT7Xqftr3Zy9o3LjjGbkVk6z5Rphu3MtAX7Q6C_SDyiEzAN4a6p8Wg" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/f6j6YzzUxPWFcFeWMKQRN_qeyjFW-qixw9z1WgicIfENp5mFR2iWHBcsD3O7FCz9WzULKfan6_Lbavn_FDT7Xqftr3Zy9o3LjjGbkVk6z5Rphu3MtAX7Q6C_SDyiEzAN4a6p8Wg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.349327,52.1727317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torc Waterfall, Killarney, Co. Kerry</name>
+        <description><![CDATA[John Hinde/Fiacre O'Toole]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -9.50544600000001,52.0032669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cliffs of Moher</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/24Di0ed_OU190hf38V9EXL_h9PHsF9Q1PA-80xNWMAp2lovLAAYC4_8dZkQP3vus4rSu78j0sYSg24vTh-UrRs9R-yKSRaulwKJkZ3RA8yiTcsW1wBJl79tSQVx7X-xbH2wyjQ" height="200" width="auto" /><br><br>John Hinde/Sophie Cooper]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/24Di0ed_OU190hf38V9EXL_h9PHsF9Q1PA-80xNWMAp2lovLAAYC4_8dZkQP3vus4rSu78j0sYSg24vTh-UrRs9R-yKSRaulwKJkZ3RA8yiTcsW1wBJl79tSQVx7X-xbH2wyjQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -9.43088239999997,52.9715368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[O'Brien's Tower]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/gy-ijIY734HU-y9H_6-_0LFpDJyAiVzJr_wVkv55FdipA-2Oi2Z_Fc3HuydMboM4YEnluabFvM35aM1bm1QmFEXJ0kxIY3WTcrrO83YtWxVc6oKJiZpfw0OhbJ4pNpzNVP0Izg" height="200" width="auto" /><br><br>John Hinde/Sophie Cooper]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/gy-ijIY734HU-y9H_6-_0LFpDJyAiVzJr_wVkv55FdipA-2Oi2Z_Fc3HuydMboM4YEnluabFvM35aM1bm1QmFEXJ0kxIY3WTcrrO83YtWxVc6oKJiZpfw0OhbJ4pNpzNVP0Izg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -9.43052710000006,52.9730258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spanish Arch</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/upIlQrXpL28yBgv5yMp-SYVe2i-s6jZt2ymO2AtU6RvGTXl4-JLj7bE2giP1pVTmK6KTY1PXc2PfbvXqA_3flnTrNoxrYnpqB4wzqrSmUlztTfWtp9NeUGWlnYWwYYXIG6pAPu0" height="200" width="auto" /><br><br>John Hinde/Sophie Cooper]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/upIlQrXpL28yBgv5yMp-SYVe2i-s6jZt2ymO2AtU6RvGTXl4-JLj7bE2giP1pVTmK6KTY1PXc2PfbvXqA_3flnTrNoxrYnpqB4wzqrSmUlztTfWtp9NeUGWlnYWwYYXIG6pAPu0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -9.05407539999999,53.2697482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica Church</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/cP5ktlZ_y34UNELivVwhea7DAmzYkw5twCr7w505tpE53dEs8N13LgNtObnHtEHccn5dB1a6PpsjezBfV2kgJHcv3UiJEzgMzRpK5hfNyf1HkBvYPI3xiGPcbo4n8siTmOPdhQ" height="200" width="auto" /><br><br>John Hinde/Anna Walsh]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/cP5ktlZ_y34UNELivVwhea7DAmzYkw5twCr7w505tpE53dEs8N13LgNtObnHtEHccn5dB1a6PpsjezBfV2kgJHcv3UiJEzgMzRpK5hfNyf1HkBvYPI3xiGPcbo4n8siTmOPdhQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.91725029999998,53.7919221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kylemore Abbey, Co Galway</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/4gTR9CpTB0V1UxkHCOlqBzZNB3rBNqHqvjfV2bO7DTcPEUOxM7MYTHNdl7dtLNxlrdsdTb68IsmAV42NlyUZL3EldD_QGfx211-bI2yYSsrBp5gRcnWSE7K_87geLmrc1-SLlg" height="200" width="auto" /><br><br>John Hinde/Sophie Cooper]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/4gTR9CpTB0V1UxkHCOlqBzZNB3rBNqHqvjfV2bO7DTcPEUOxM7MYTHNdl7dtLNxlrdsdTb68IsmAV42NlyUZL3EldD_QGfx211-bI2yYSsrBp5gRcnWSE7K_87geLmrc1-SLlg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -9.88931260000004,53.5616392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Croagh Patrick</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/1FMo7kxk0HArutb45fNOnfXj1GdaxUW_27X5FVYTNMhb5O5cjHg5yjy-eGfMdZ6KKz9IqQ-cFdGl4T81gm-4-InwLWwgarAS8e2bD_cFD4uK3FYT5e2Y3qY2FhE-sRQz1ksxMA" height="200" width="auto" /><br><br>St Patrick, Croagh Patrick, John Hinde/Anna Walsh]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/1FMo7kxk0HArutb45fNOnfXj1GdaxUW_27X5FVYTNMhb5O5cjHg5yjy-eGfMdZ6KKz9IqQ-cFdGl4T81gm-4-InwLWwgarAS8e2bD_cFD4uK3FYT5e2Y3qY2FhE-sRQz1ksxMA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -9.65979130000005,53.7599117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keel Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/OsAjZ4CugO0TRvWnw_0wqCvZ0ydS0OtzDuUyKJPv8uieB5HfOCnoej-KdP3cMHmqiITSsaOWVXaA9txLXa4yMfhEYUtn8KlVNlmdXrEVKSRCv9Sr2n_QAtJSzzsCw46DlSoIbA" height="200" width="auto" /><br><br>John Hinde/Sophie Cooper]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/OsAjZ4CugO0TRvWnw_0wqCvZ0ydS0OtzDuUyKJPv8uieB5HfOCnoej-KdP3cMHmqiITSsaOWVXaA9txLXa4yMfhEYUtn8KlVNlmdXrEVKSRCv9Sr2n_QAtJSzzsCw46DlSoIbA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.074892,53.9722939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palm House, Botanic Gardens, Belfast</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/UA33mGGeCxupHLKg1KGwHR44AeCO8-QgRlsPNwDhgoeVj37-bq9iOAM_MHIRZ6o7NJjOniftzT5u5SUjEEDOQZishUGmU_ZUZygCfeGz6KHiu9nB_NXPvhSVCt0ei_8iy1wo1A" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/UA33mGGeCxupHLKg1KGwHR44AeCO8-QgRlsPNwDhgoeVj37-bq9iOAM_MHIRZ6o7NJjOniftzT5u5SUjEEDOQZishUGmU_ZUZygCfeGz6KHiu9nB_NXPvhSVCt0ei_8iy1wo1A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.933851,54.583317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belfast City Hall</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Bu6sCM5H5VXO3_GqHdBBo4J7Zu772dn7JcjZefEPEJ2GxiCaWVTkbDJKHV4Q30aNcyV6PB0cXs6OHY-L9uM11hWnbr06yn7MzfUKhVGwxM7h4N7s4C5wgyWBU8Ep34FWw_qlNkk" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Bu6sCM5H5VXO3_GqHdBBo4J7Zu772dn7JcjZefEPEJ2GxiCaWVTkbDJKHV4Q30aNcyV6PB0cXs6OHY-L9uM11hWnbr06yn7MzfUKhVGwxM7h4N7s4C5wgyWBU8Ep34FWw_qlNkk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.93005300000004,54.596484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blarney Castle, Co. Cork</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/tywwqg-DMi7HID9mk4R288rGSaYN5Ih0yakU6XcN3T4cucAYEHkYP6YYsCS6o16UMlf0mot3nenf-1HltI604CDBkKTKAeM7fUeFHG7qOBKpjmllzIdejHwRzrLctHguzAorhx4" height="200" width="auto" /><br><br>John Hinde/Fiacre O'Toole]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/tywwqg-DMi7HID9mk4R288rGSaYN5Ih0yakU6XcN3T4cucAYEHkYP6YYsCS6o16UMlf0mot3nenf-1HltI604CDBkKTKAeM7fUeFHG7qOBKpjmllzIdejHwRzrLctHguzAorhx4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.57071440000004,51.9291159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Colman's Cathedral & Cobh]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/w7kwJa9N6KSAxF4bpXWaFMfel1L2kY6Z_xu0R5Rogx4zi5OJ0X6zaxNHoOKqMXsk2rYMy9W5O1lliAxN7CFwfMWW70kDNS7vgCY-F_on0fJCZenRE_MWs1uNXqWvpd8oDFFkuzs" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/w7kwJa9N6KSAxF4bpXWaFMfel1L2kY6Z_xu0R5Rogx4zi5OJ0X6zaxNHoOKqMXsk2rYMy9W5O1lliAxN7CFwfMWW70kDNS7vgCY-F_on0fJCZenRE_MWs1uNXqWvpd8oDFFkuzs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.29428580000001,51.8503357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Peter and Paul's Church & River Shannon, Athlone]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/TxV0d0kjHOwY_ornO-p9RhkqnB29MWxjOXYH0pEORrAdzonr0rmD6Xm2qB8aTf-2toSlV8iK9SP425jPUPo1XrbSYH25frMpJdA-wIolR30AXxI7V46jsT0hITghnPDRjrXHTg" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/TxV0d0kjHOwY_ornO-p9RhkqnB29MWxjOXYH0pEORrAdzonr0rmD6Xm2qB8aTf-2toSlV8iK9SP425jPUPo1XrbSYH25frMpJdA-wIolR30AXxI7V46jsT0hITghnPDRjrXHTg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.94068979999997,53.4239331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saint Fin Barre's Cathedral]]></name>
+        <styleUrl>#icon-1502-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.48004300000002,51.8943543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[View of St Fin Barre's & River Lee, Cork]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/DI13e22wXV8WyoYbeNrM6OPemqXdIjD5tNvXxVKQ2mlrzSCgA2rltSXOfskrGwozox1TjrTjOExSFU4ozxPU6RdTjZOyz4Dz-lfjek1ASbKffxV_tbZXcqkVgrxHLsgTAIouGg" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/DI13e22wXV8WyoYbeNrM6OPemqXdIjD5tNvXxVKQ2mlrzSCgA2rltSXOfskrGwozox1TjrTjOExSFU4ozxPU6RdTjZOyz4Dz-lfjek1ASbKffxV_tbZXcqkVgrxHLsgTAIouGg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.4742194,51.8960063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Patrick's St, Cork]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/lGC1cqtK5Hs5B4YginmG0nqYEapLhxqY9-LzJIeqXTRoc6gqXIISB_lmk_7MAE_aXyV-bams7rYEAbYF3G2cHQrXBtEEIxsaVrPQ59XQyD2hr14XijaKbXbehAYF7-nN8hDJYQ" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/lGC1cqtK5Hs5B4YginmG0nqYEapLhxqY9-LzJIeqXTRoc6gqXIISB_lmk_7MAE_aXyV-bams7rYEAbYF3G2cHQrXBtEEIxsaVrPQ59XQyD2hr14XijaKbXbehAYF7-nN8hDJYQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.4711295,51.8990583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferrycarrig, Tower House, Wexford</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/4juoZDBH6Fh2u91LXiGxecytgDRL2Chg7r4vt61u0HVpVKSof_5XBrCz2B5tzCwqll61rrtQymMI-kZwJrF_Qm6iCD-NIuIt6IBAttB9zW9Xvp9kBQa06wL8vxWJbCod2XDU" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/4juoZDBH6Fh2u91LXiGxecytgDRL2Chg7r4vt61u0HVpVKSof_5XBrCz2B5tzCwqll61rrtQymMI-kZwJrF_Qm6iCD-NIuIt6IBAttB9zW9Xvp9kBQa06wL8vxWJbCod2XDU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.5098071,52.3514108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coumeenoole Beach, Kerry</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/C33U13-9pL6BsEpWR8FTvMpXXfXjlB6AZyRGpz5kWgBIpMnYaLe3W6jl3ob94VrTpWSrFbMi79IQM5NEz2qkfB8oOh3kpJ2aSorzd2AncxIX15AtI99l_29Sx9Ti5GM-CiLR" height="200" width="auto" /><br><br>Dermot Frost/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/C33U13-9pL6BsEpWR8FTvMpXXfXjlB6AZyRGpz5kWgBIpMnYaLe3W6jl3ob94VrTpWSrFbMi79IQM5NEz2qkfB8oOh3kpJ2aSorzd2AncxIX15AtI99l_29Sx9Ti5GM-CiLR</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.4644343,52.1098114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slea Head, Kerry</name>
+        <description>Dermot Frost/John Hinde</description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -10.455358,52.1048709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View to Dunmore Head, Kerry</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/EWCSQxPn-KOE19RLZTIL6R45di8UIg_L_LRcjIXT8iAbXhfP7aSYuQNntvJNjdyYmQ9sEs7oh4SiCD22h1A8_lfVTiNAJO8x6XHPAEO2Woev6F0YVI5q4NdzFEH1ELdSx79qxGs" height="200" width="auto" /><br><br>Dermot Frost/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/EWCSQxPn-KOE19RLZTIL6R45di8UIg_L_LRcjIXT8iAbXhfP7aSYuQNntvJNjdyYmQ9sEs7oh4SiCD22h1A8_lfVTiNAJO8x6XHPAEO2Woev6F0YVI5q4NdzFEH1ELdSx79qxGs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.4638982,52.1124881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stream at Fahan, Co. Kerry</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/5WmTppcdHYRUy4KFMyjBH9Rxcp7jsH2gwvysQjkLW5ka-2HsWGzDCUMLnPNWQJfVkfoqIOx6kgMv_Hp9TyXpAMbAJJwPBt4oucjPXfK2qZs9Y04f5xXh56Gzg_mERo8PCSm-eac" height="200" width="auto" /><br><br>Dermot Frost/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/5WmTppcdHYRUy4KFMyjBH9Rxcp7jsH2gwvysQjkLW5ka-2HsWGzDCUMLnPNWQJfVkfoqIOx6kgMv_Hp9TyXpAMbAJJwPBt4oucjPXfK2qZs9Y04f5xXh56Gzg_mERo8PCSm-eac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.4298449,52.1023667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dingle</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/GEw9NODKgCgf3zVBPwMsNM0KwlAoj3BPpQq5fr3B3ZbutW0xNmIsskM5ZaNvtqpr2U_D2Cgjc8n9vKl-ctRAgO19lDZjx2Kh1RH4xhjn_X2C2Ec-TxQtkhTbuPngrOBzpf9Zdw" height="200" width="auto" /><br><br>Dermot Frost/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/GEw9NODKgCgf3zVBPwMsNM0KwlAoj3BPpQq5fr3B3ZbutW0xNmIsskM5ZaNvtqpr2U_D2Cgjc8n9vKl-ctRAgO19lDZjx2Kh1RH4xhjn_X2C2Ec-TxQtkhTbuPngrOBzpf9Zdw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.2819157,52.1472894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Suir, Clonmel Co. Tipperary</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/kRTIOFKrFlEoaqmlklWzsMNRxO-cTmr3-tX4VaiiTmWGCE-y3AtWv72yJw65eKIq1zo3AwE7tYqT9Al_gwk_oRIcM6Q9kzV0CiwE6GKMzOGt5QamaMLT01sgmKINSOuFhth6" height="200" width="auto" /><br><br>Dermot Frost/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/kRTIOFKrFlEoaqmlklWzsMNRxO-cTmr3-tX4VaiiTmWGCE-y3AtWv72yJw65eKIq1zo3AwE7tYqT9Al_gwk_oRIcM6Q9kzV0CiwE6GKMzOGt5QamaMLT01sgmKINSOuFhth6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.7042055,52.3518958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Road to Vee Pass, Knockmealdown Mountains, Co. Tipperary</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/hWWpLAtzsH3yHeCGxk181lRQaUZC_imjKnGemt0GxG0N_JEWdul3snuLND41a7GSgKeRnp5gkX3xjZ6k_h5c7bZxAY8I4W1mb5d8sdUGzdQ0thtcDChnlC3NT76iKK1yeWRVOA" height="200" width="auto" /><br><br>Dermot Frost/John Hinde]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/hWWpLAtzsH3yHeCGxk181lRQaUZC_imjKnGemt0GxG0N_JEWdul3snuLND41a7GSgKeRnp5gkX3xjZ6k_h5c7bZxAY8I4W1mb5d8sdUGzdQ0thtcDChnlC3NT76iKK1yeWRVOA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.9455185,52.2585967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cahir Castle</name>
+        <styleUrl>#icon-1502-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.92707510000002,52.3745471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kilkenny Castle by night</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/w0n2EzPrj7sw9CVWUve84LbK3bcIiqz3X1RsYPhum1iWs1IH4IeB8gzb_rYITk8ttVZRPzd2ic295zrdHzj63vmKjI-ks4gLyerDugE2Gvj_lI8WIb9psVWIyShX8UVu01h4TA" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/w0n2EzPrj7sw9CVWUve84LbK3bcIiqz3X1RsYPhum1iWs1IH4IeB8gzb_rYITk8ttVZRPzd2ic295zrdHzj63vmKjI-ks4gLyerDugE2Gvj_lI8WIb9psVWIyShX8UVu01h4TA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.24952299999995,52.6499291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kilkenny Castle & the Nore]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/YPVh5p_4XpRAovI5J3huUa3mYC9Ga8rhgkDKJqBEomNFcjHtl5O_X_kqniENCzp6-wTSKaFNN0KLNkAjqgjn74xvKY4FxX5nOj0pD60O13KsUtwvjgysTXbDuy4vOBPmP4bhRTU" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/YPVh5p_4XpRAovI5J3huUa3mYC9Ga8rhgkDKJqBEomNFcjHtl5O_X_kqniENCzp6-wTSKaFNN0KLNkAjqgjn74xvKY4FxX5nOj0pD60O13KsUtwvjgysTXbDuy4vOBPmP4bhRTU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.2482702,52.6512555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Youghal Clock Gate Tower</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/APVSV-5NA6sPcGjmAmJ9pBGd03ziJAQeTmibRKgflAXabLMo617WUbn_dFcfY8ESI3LQPcgkGtjvFL78YKwTbBILGaLj_jlCmwbzE62Xb_a0f5vZZunacFfMemlkw62Nj4zsVQ" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/APVSV-5NA6sPcGjmAmJ9pBGd03ziJAQeTmibRKgflAXabLMo617WUbn_dFcfY8ESI3LQPcgkGtjvFL78YKwTbBILGaLj_jlCmwbzE62Xb_a0f5vZZunacFfMemlkw62Nj4zsVQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.846767,51.952759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[View of the quays & the Four Courts]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/PyNSxQ33n0pvw01lv8Cfh0MGzaF2oIR00d9AVnaKIYprdO3ZADVAOAU0V4uFTf94KQTZO4GDMOCOLAKjvDaClm7l9rW2NNH6dNrKdtx4Ezwf6ADWQQBQG2oE0FXnoecR3xO8nA" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/PyNSxQ33n0pvw01lv8Cfh0MGzaF2oIR00d9AVnaKIYprdO3ZADVAOAU0V4uFTf94KQTZO4GDMOCOLAKjvDaClm7l9rW2NNH6dNrKdtx4Ezwf6ADWQQBQG2oE0FXnoecR3xO8nA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.2701678,53.345197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Gresham Hotel</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/lJUw07njpWANXrUsFw1s8sudpe6YwJhZR_MC_sWfnP7uHbuP4wvpHUPA17CwE3SFXjtWEGhFrvHM74e5K7maq4ck57h_QTTdx9bMVGFA_1FZ48BVTSHOi55f8w1uUdIqAmDWiA" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/lJUw07njpWANXrUsFw1s8sudpe6YwJhZR_MC_sWfnP7uHbuP4wvpHUPA17CwE3SFXjtWEGhFrvHM74e5K7maq4ck57h_QTTdx9bMVGFA_1FZ48BVTSHOi55f8w1uUdIqAmDWiA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.26122529999998,53.3515521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RDS Main Arena</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/4WSzXaseTM8vVXXy5NeP4E08YsHtyBl_XJJjCo2XSE0mCPaeYdQMwRKMXcbsjaXpvXG5TQDTQeaUgIWghV7jNvp09mcQ11q68p3cB14uXXY9ujQlMMrvNWKtTR2TYU8MGThoYVU" height="200" width="auto" /><br><br>John Hinde/Caroline McGee]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/4WSzXaseTM8vVXXy5NeP4E08YsHtyBl_XJJjCo2XSE0mCPaeYdQMwRKMXcbsjaXpvXG5TQDTQeaUgIWghV7jNvp09mcQ11q68p3cB14uXXY9ujQlMMrvNWKtTR2TYU8MGThoYVU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.22968790000004,53.3257181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marble Hill</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/xhLc8jU75UE9ePxHn95n7S73iE7KQnhQ2H4-tMvnflAsNVfe72Qq1_F3RXlNWU4TCWkWxNYXOvqlNcf33rhDtFkQkdsYnYwaWiR7Ep2K6AmwSGP2BI8kF5tKfSafqGWnmcvH9H0" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/xhLc8jU75UE9ePxHn95n7S73iE7KQnhQ2H4-tMvnflAsNVfe72Qq1_F3RXlNWU4TCWkWxNYXOvqlNcf33rhDtFkQkdsYnYwaWiR7Ep2K6AmwSGP2BI8kF5tKfSafqGWnmcvH9H0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.90246999999999,55.17712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guildhall, Derry</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/RXzIz_Ln395-tmboG72qHUvZs9-S5YOUjFUVsGzGC3vNkzWEnScdX1Kney17G6jTzi2F1W14u8qZgkNI0KQw7ObZ1yOs0TjcnuXCgdPA043tr9InDcGSvMr17cNwUubjTxp1" height="200" width="auto" /><br><br>John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/RXzIz_Ln395-tmboG72qHUvZs9-S5YOUjFUVsGzGC3vNkzWEnScdX1Kney17G6jTzi2F1W14u8qZgkNI0KQw7ObZ1yOs0TjcnuXCgdPA043tr9InDcGSvMr17cNwUubjTxp1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -7.31974639999999,54.9977416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Errigal from Gweedore</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/zz1ZmFxUnNqqy-kMbU3iQP9nkS-cY710UD3E4YJJnIZyzLnQTsro5HaUKwRKFU5U2DD7nddigyBR1VIqJETxpEAjK6wB-NirGEIYCnGynBaBSvR5vXwNItZa-GkEoUN_q7fy" height="200" width="auto" /><br><br>John Hinde/Alistair Daniel]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/zz1ZmFxUnNqqy-kMbU3iQP9nkS-cY710UD3E4YJJnIZyzLnQTsro5HaUKwRKFU5U2DD7nddigyBR1VIqJETxpEAjK6wB-NirGEIYCnGynBaBSvR5vXwNItZa-GkEoUN_q7fy</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.2236563,55.0487476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sligo</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/0ZUd_68ucCOuLXumhxC9ox6DwmhQq4lyjot7-Smzxyf914qg0wO1Ml_k9WpMhpH_K1HxbdGFcIKYq9MAZ6bhuLkMTmraQ3X9q0KASKZ1ZfYRx6aRrAo2FE0A2SN-dtONj1hvBBM" height="200" width="auto" /><br><br>John Hiinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/0ZUd_68ucCOuLXumhxC9ox6DwmhQq4lyjot7-Smzxyf914qg0wO1Ml_k9WpMhpH_K1HxbdGFcIKYq9MAZ6bhuLkMTmraQ3X9q0KASKZ1ZfYRx6aRrAo2FE0A2SN-dtONj1hvBBM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.4723805,54.2713121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burtonport</name>
+        <description><![CDATA[John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -8.4421424,54.9832722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portnablagh, Co Donegal</name>
+        <description><![CDATA[John Hinde/Gillian O'Brien]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -7.9252489,55.1817394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stroove Beach, Co. Donegal</name>
+        <description>John Hinde/Alistair Daniel</description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9288891,55.234553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
